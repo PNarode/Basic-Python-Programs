@@ -4,6 +4,8 @@
 
 pi=list()
 def gen(n):
+## KN while naming variables use descriptive names instead of letters, makes it easier to follow the code.
+## for e.g. 'quotient' instead of q, 'divisor' instead of d, 'counter' instead of c
     q=22
     d=7
     i=1
